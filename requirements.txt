@@ -1,2 +1,5 @@
 llama-index
 sentence-transformers
+langchain
+openai
+pydantic
